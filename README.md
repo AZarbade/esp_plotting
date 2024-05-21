@@ -4,7 +4,7 @@ Value Plots is a helper utility (and a future library) designed to visualize sen
 
 ## Features
 - A helper project (future library) to plot sensor data from esp32's serial monitor.
-- Using [egui]() as GUI library to display data.
+- Using [egui](https://github.com/emilk/egui) as GUI library to display data.
 - Simply uses basic string parsing from serial monitor to get sensor data.
 
 ## Todo:
